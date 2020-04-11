@@ -30,7 +30,7 @@
         /* Same as the width of the sidenav */
         font-size: 1rem;
         /* Increased text to enable scrolling */
-        overflow-x: hidden;
+        /* overflow-x: hidden; */
         padding-left: 40px;
         margin-top: 100px;
     }
